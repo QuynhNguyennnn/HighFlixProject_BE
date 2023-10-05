@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uCZUfasDX+eETmJWKzmqkMBxuAhVoDxbNEJ0QA080ju/Z9S66VMVTH3+kASaBMk8wkpMCcmUt0d5Ra3lzB17Eg==",
+  "dgSpecHash": "Y4Ig4NlXY2Xyd8mwoGPgWmlAHkCXX3FZty5tx0l8/UgvpKfM2YqxvtDghj/wlQMsKN6RMcfuDVJwWHEBsvgRHQ==",
   "success": true,
-  "projectFilePath": "D:\\FA23\\PRN231\\Project resource\\Project\\MicroServicesBE\\AuthenticationServices\\AuthenticationServices.csproj",
+  "projectFilePath": "d:\\FA23\\PRN231\\Project resource\\Project\\MicroServicesBE\\AuthenticationServices\\AuthenticationServices.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
